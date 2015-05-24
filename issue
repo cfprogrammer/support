@@ -1,0 +1,3 @@
+I am trying to validate that at least one of three fields is being used.  The fields are not all similar.  
+Email and phone.  I tried to find some help on StackOverflow with no luck  
+http://stackoverflow.com/questions/30020794/bootstrap-formvalidation-io-trying-to-require-one-field-or-the-other
